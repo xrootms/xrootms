@@ -47,7 +47,9 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 ## 📜 Certifications
 ## 📜 Certifications
 - ✅ AWS Certified Solutions Architect – Associate  
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect_Associate_512x512.9d2552f76e.png" alt="AWS SAA" width="100"/>
+ ## 📜 Certifications
+- ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=white)
+
 
 
 ---
