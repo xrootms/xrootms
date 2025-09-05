@@ -24,7 +24,7 @@
 ![Grafana](https://img.shields.io/badge/Observability-Grafana-brightgreen?logo=grafana)
 ![Kubernetes](https://img.shields.io/badge/K8s-Orchestration-blue?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Scripting-Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
 ---
 
 ## 📂 Featured Projects
