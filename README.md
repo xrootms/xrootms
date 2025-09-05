@@ -6,11 +6,14 @@ Based in India | Working with global teams
 
 ---
 
-## About Me
-- Passionate about **Cloud Computing, Automation, and Infrastructure as Code (IaC)**  
-- Experienced in **AWS, Kubernetes, Terraform, Ansible, Jenkins, Docker**  
-- Goal: To build **scalable, secure, and cost-optimized cloud solutions**  
-- I share my projects & learnings on GitHub and LinkedIn  
+## About Me  
+
+🌩️ Passionate **Cloud & DevOps Engineer** focused on **Cloud Computing, Automation, and Infrastructure as Code (IaC)**.  
+🚀 Skilled in **AWS, Kubernetes, Terraform, Ansible, Jenkins, and Docker** for building modern cloud-native solutions.  
+🔒 Strong believer in designing **scalable, secure, and cost-optimized** architectures.  
+📚 Continuously learning & sharing my journey through **projects, blogs, and open-source contributions**.  
+🤝 Actively engaging on **GitHub & LinkedIn** to collaborate and grow with the tech community.  
+
 
 ---
 
