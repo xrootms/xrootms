@@ -6,7 +6,7 @@ Based in India | Working with global teams
 
 ---
 
-## 🔹 About Me
+## About Me
 - Passionate about **Cloud Computing, Automation, and Infrastructure as Code (IaC)**  
 - Experienced in **AWS, Kubernetes, Terraform, Ansible, Jenkins, Docker**  
 - Goal: To build **scalable, secure, and cost-optimized cloud solutions**  
@@ -14,7 +14,7 @@ Based in India | Working with global teams
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 ![AWS](https://img.shields.io/badge/AWS-Cloud-pink?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
@@ -44,23 +44,23 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 ---
 
- ## 📜 Certifications
+ ## Certifications
 - ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=gray)
 
 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![xrootms GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=tokyonight)
 
 
 ---
 
-## 📫 Connect With Me
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)   
-- 📧 Email: yourname@example.com  
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/your-profile)   
+- Email: yourname@example.com  
 
 ---
 
