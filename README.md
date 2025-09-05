@@ -4,7 +4,7 @@
 
 ---
 
-## Tech Stack & Tools
+## Tools
 ![AWS](https://img.shields.io/badge/AWS-Cloud-pink?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
