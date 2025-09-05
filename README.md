@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-![AWS](https://img.shields.io/badge/AWS-Cloud-golden?logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-Cloud-darkblue?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-yellow?logo=jenkins)
@@ -45,7 +45,7 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 ---
 
  ## 📜 Certifications
-- ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=black)
+- ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=gray)
 
 
 
