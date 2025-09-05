@@ -15,7 +15,7 @@ Based in India | Working with global teams
 ---
 
 ## 🛠️ Tech Stack & Tools
-![AWS](https://img.shields.io/badge/AWS-Cloud-darkblue?logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-Cloud-pink?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-yellow?logo=jenkins)
