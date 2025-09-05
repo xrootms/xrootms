@@ -1,19 +1,12 @@
 # Hi there, I'm Saifuddin
 
- **Cloud & DevOps Engineer** | AWS | Kubernetes | Terraform | CI/CD  
-Open to **Remote Opportunities**  
-Based in India | Working with global teams  
-
----
-
 ## About Me  
 
-🌩️ Passionate **Cloud & DevOps Engineer** focused on **Cloud Computing, Automation, and Infrastructure as Code (IaC)**.  
-🚀 Skilled in **AWS, Kubernetes, Terraform, Ansible, Jenkins, and Docker** for building modern cloud-native solutions.  
-🔒 Strong believer in designing **scalable, secure, and cost-optimized** architectures.  
-📚 Continuously learning & sharing my journey through **projects, blogs, and open-source contributions**.  
-🤝 Actively engaging on **GitHub & LinkedIn** to collaborate and grow with the tech community.  
-
+**Cloud & DevOps Engineer** focused on **Cloud Computing, Automation, and Infrastructure as Code (IaC)**.  
+Skilled in **AWS, Kubernetes, Terraform, Ansible, Jenkins, and Docker** for building modern cloud-native solutions.  
+Strong believer in designing **scalable, secure, and cost-optimized** architectures.  
+Continuously learning & sharing my journey through **projects, blogs, and open-source contributions**.  
+Actively engaging on **GitHub & LinkedIn** to collaborate and grow with the tech community.  
 
 ---
 
