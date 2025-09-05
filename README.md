@@ -13,23 +13,8 @@
 - ✍️ I share my projects & learnings on GitHub and LinkedIn  
 
 ---
-## 🛠️ Tech Stack
-## ☁️ Cloud & IaC
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-## 🔄 CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?logo=github-actions&logoColor=white)
-
-## 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white)
-
-## 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white)
 
 ## ⚡ Scripting
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
