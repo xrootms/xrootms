@@ -17,7 +17,7 @@
 ![Bash](https://img.shields.io/badge/Scripting-Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
 
 
----
+--
 
 ## 📂 Featured Projects
 Here are some of my hands-on projects ⬇️
