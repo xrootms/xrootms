@@ -45,13 +45,13 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 ---
 
 ## 📜 Certifications
+## 📜 Certifications
 - ✅ AWS Certified Solutions Architect – Associate  
-- ✅ Terraform Associate (HashiCorp)  
-*(Add more as you earn them!)*  
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect_Associate_512x512.9d2552f76e.png" alt="AWS SAA" width="100"/>
+
 
 ---
 
-## 📊 GitHub Stats
 ## 📊 GitHub Stats
 ![xrootms GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=tokyonight)
