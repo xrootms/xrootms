@@ -22,7 +22,7 @@ Based in India | Working with global teams
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?logo=github-actions)
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Observability-Grafana-purple?logo=grafana)
-![Kubernetes](https://img.shields.io/badge/K8s-Orchestration-maroon?logo=kubernetes)
+![Kubernetes](https://img.shields.io/badge/K8s-Orchestration-lightmaroon?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-Containers-brown?logo=docker)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
 ---
