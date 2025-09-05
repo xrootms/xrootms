@@ -13,6 +13,17 @@
 - ✍️ I share my projects & learnings on GitHub and LinkedIn  
 
 ---
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
+
 
 ## 🛠️ Tech Stack & Tools
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
