@@ -38,22 +38,14 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
  ## Certifications
 - ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=gray)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xrootms&theme=tokyonight)
-
 
 ---
-## 📈 My GitHub Stats  
-
-![Stats](https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=transparent)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=transparent)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=xrootms&theme=transparent)
-
 
 
 ## GitHub Stats
 ![xrootms GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xrootms&theme=tokyonight)
 
 ---
 
