@@ -18,7 +18,7 @@
 
 ---
 
-## 📂 Featured Projects
+## Projects
 Here are some of my hands-on projects ⬇️
 
 🔹 [**AWS 3-Tier Architecture with Terraform**](https://github.com/xrootms/aws-3tier-terraform)  
@@ -48,7 +48,6 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/saif-ek/)
-- Email: yourname@example.com  
 
 ---
 
