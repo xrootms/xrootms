@@ -40,19 +40,14 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 ---
 
-## GitHub Stats
-![xrootms GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=tokyonight)
-
-## 📊 GitHub Stats  
-
+## GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=tokyonight" alt="xrootms GitHub Stats" height="150"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 
 ---
 
 ## Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-profile)   
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/saif-ek/))   
 - Email: yourname@example.com  
 
 ---
