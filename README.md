@@ -47,6 +47,12 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xrootms&theme=tokyonight)
 
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrootms&theme=tokyonight" alt="GitHub Streak" height="150"/>
+</p>
+
 ---
 
 ## Connect With Me
