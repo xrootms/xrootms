@@ -38,8 +38,8 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
  ## Certifications
 - ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=gray)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xrootms&theme=tokyonight)
 
-- [terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Opinionated Terraform module for secure AWS Account setup.
 
 ---
 
