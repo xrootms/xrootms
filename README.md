@@ -21,7 +21,7 @@
 ## 📂 Featured Projects
 Here are some of my hands-on projects ⬇️
 
-🔹 [**AWS 3-Tier Architecture with Terraform**](https://github.com/your-username/aws-3tier-terraform)  
+🔹 [**AWS 3-Tier Architecture with Terraform**](https://github.com/xrootms/aws-3tier-terraform)  
 Provisioned a **scalable 3-tier architecture** (VPC, EC2, RDS, ALB) using **Terraform**.  
 
 🔹 [**Kubernetes Microservices with Ingress**](https://github.com/your-username/k8s-microservices)  
