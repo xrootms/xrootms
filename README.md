@@ -47,7 +47,7 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 ---
 
 ## Connect With Me
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/saif-ek/))   
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/saif-ek/)   
 - Email: yourname@example.com  
 
 ---
