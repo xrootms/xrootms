@@ -5,7 +5,7 @@
 ---
 
 ## Tools
-![AWS](https://img.shields.io/badge/AWS-Cloud-pink?logo=amazon-aws)
+![AWS](https://img.shields.io/badge/Cloud-AWS-pink?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-yellowgreen?logo=ansible)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-yellow?logo=jenkins)
