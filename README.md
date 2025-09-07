@@ -7,7 +7,7 @@
 ## Tools
 ![AWS](https://img.shields.io/badge/AWS-Cloud-pink?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-gold?logo=ansible)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-yellow?logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?logo=github-actions)
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-aquamarine?logo=prometheus)
