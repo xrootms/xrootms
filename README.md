@@ -7,13 +7,13 @@
 ## Tools
 ![AWS](https://img.shields.io/badge/Cloud-AWS-pink?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-yellowgreen?logo=ansible)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-yellow?logo=jenkins)
+![Ansible](https://img.shields.io/badge/Automation-Ansible-yellowgreen?logo=ansible)
+![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-yellow?logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?logo=github-actions)
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-aquamarine?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Observability-Grafana-chocolate?logo=grafana)
-![Kubernetes](https://img.shields.io/badge/K8s-Orchestration-silver?logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containers-lightskyblue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Orchestration-K8s-silver?logo=kubernetes)
+![Docker](https://img.shields.io/badge/Containers-Docker-lightskyblue?logo=docker)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-%234EAA25.svg?logo=gnu-bash&logoColor=greenyellow)
 
 ---
