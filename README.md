@@ -15,7 +15,6 @@
 ![Bash](https://img.shields.io/badge/Scripting-Bash-%234EAA25.svg?logo=gnu-bash&logoColor=greenyellow)
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-aquamarine?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Observability-Grafana-chocolate?logo=grafana)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
