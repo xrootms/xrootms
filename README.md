@@ -10,7 +10,7 @@
 ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellowgreen?logo=ansible)
 ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-lightblue?logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-lightgreen?logo=github-actions)
-![Kubernetes](https://img.shields.io/badge/Orchestration-K8s-silver?logo=kubernetes)
+![Kubernetes](https://img.shields.io/badge/Orchestration-K8s-FF4154?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Containers-Docker-skyblue?logo=docker)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-%234EAA25.svg?logo=gnu-bash&logoColor=greenyellow)
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-aquamarine?logo=prometheus)
