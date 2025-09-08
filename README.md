@@ -9,7 +9,7 @@
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellowgreen?logo=ansible)
 ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-lightblue?logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-brownblack?logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-fuchsia?logo=github-actions)
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-aquamarine?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Observability-Grafana-chocolate?logo=grafana)
 ![Kubernetes](https://img.shields.io/badge/Orchestration-K8s-silver?logo=kubernetes)
