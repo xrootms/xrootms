@@ -8,7 +8,7 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-pink?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellowgreen?logo=ansible)
-![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-lightpink?logo=jenkins)
+![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-lightred?logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?logo=github-actions)
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-aquamarine?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Observability-Grafana-chocolate?logo=grafana)
