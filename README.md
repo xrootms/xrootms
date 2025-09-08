@@ -11,7 +11,7 @@
 ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-lightblue?logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-lightgreen?logo=github-actions)
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-aquamarine?logo=prometheus)
-![Grafana](https://img.shields.io/badge/Observability-Grafana-lightchocolate?logo=grafana)
+![Grafana](https://img.shields.io/badge/Observability-Grafana-chocolate?logo=grafana)
 ![Kubernetes](https://img.shields.io/badge/Orchestration-K8s-silver?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Containers-Docker-skyblue?logo=docker)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-%234EAA25.svg?logo=gnu-bash&logoColor=greenyellow)
