@@ -18,13 +18,6 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,bash,ansible,jenkins,prometheus" />
-  </a>
-</p>
-
 ## Projects
 Here are some of my hands-on projects ⬇️
 
@@ -56,5 +49,10 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/saif-ek/)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,bash,ansible,jenkins,prometheus" />
+  </a>
+</p>
 ---
 
