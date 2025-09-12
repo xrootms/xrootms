@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,bash,ansible,jenkins" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,bash,ansible,jenkins,Prometheus" />
   </a>
 </p>
 
