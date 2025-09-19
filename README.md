@@ -51,6 +51,12 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 - 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-ek/)
 
+
+![snake gif](https://github.com/saif-ek/saif-ek/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,bash,ansible,jenkins,prometheus" />
