@@ -47,14 +47,9 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 ---
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/saif-ek/)
+
 - 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-ek/)
-
-
-![snake gif](https://github.com/saif-ek/saif-ek/blob/output/github-contribution-grid-snake.svg)
-
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-ek/)
 
 
 
