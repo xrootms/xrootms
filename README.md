@@ -48,6 +48,8 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/saif-ek/)
+- 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-ek/)
 
 <p align="center">
   <a href="https://skillicons.dev">
