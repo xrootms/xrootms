@@ -30,7 +30,7 @@ Deployed **microservices app** on Kubernetes with **Ingress Controller & Helm ch
 🔹 [**Serverless URL Shortener**](https://github.com/your-username/aws-serverless-url-shortener)  
 Built a serverless URL shortener using **AWS Lambda + API Gateway + DynamoDB**.  
 
-🔹 [**DevOps CI/CD Pipeline**](https://github.com/your-username/DevOps-CI-CD-Pipeline)  
+🔹 [**DevOps CI/CD Pipeline**](https://github.com/xrootms/DevOps-CI-CD-Pipeline)  
 Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.  
 
 ---
