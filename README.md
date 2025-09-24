@@ -38,6 +38,11 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
  ## Certifications
 - ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=gray)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
 ---
 
 ## GitHub Stats  
