@@ -38,10 +38,11 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
  ## Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/badges/"><!-- replace with your badge link -->
-    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?logo=amazon-aws&logoColor=white" />
+  <a href="https://www.credly.com/badges/e94ba17e-40ac-4909-b2bb-fb5a98fab042" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/e94ba17e-40ac-4909-b2bb-fb5a98fab042/image.png" width="100" height="100" alt="AWS Certified Solutions Architect – Associate" />
   </a>
 </p>
+
 
 
 ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=gray)
