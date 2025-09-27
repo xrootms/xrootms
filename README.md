@@ -10,7 +10,6 @@
   </a>
 </p>
 
----
 
 ## Projects
 Here are some of my hands-on projects ⬇️
@@ -27,19 +26,16 @@ Built a serverless URL shortener using **AWS Lambda + API Gateway + DynamoDB**.
 🔹 [**DevOps CI/CD Pipeline**](https://github.com/xrootms/DevOps-CI-CD-Pipeline)  
 Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.  
 
----
 
  ## Certifications
 
 ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=gray)
 
----
 
 ## GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=tokyonight" alt="xrootms GitHub Stats" height="150"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 
----
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-ek/)  [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/saif-ek)
