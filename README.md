@@ -5,23 +5,11 @@
 ---
 
 ## Tools
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,bash,ansible,jenkins,prometheus" />
   </a>
 </p>
----
-
-#![AWS](https://img.shields.io/badge/Cloud-AWS-pink?logo=amazon-aws)
-#![Terraform](https://img.shields.io/badge/IaC-Terraform-E1CFF5?logo=terraform)
-#![Ansible](https://img.shields.io/badge/Automation-Ansible-yellowgreen?logo=ansible)
-#![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-FF4154?logo=jenkins)
-#![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-lightgreen?logo=github-actions)
-#![Kubernetes](https://img.shields.io/badge/Orchestration-K8s-blue?logo=kubernetes)
-#![Docker](https://img.shields.io/badge/Containers-Docker-skyblue?logo=docker)
-#![Bash](https://img.shields.io/badge/Scripting-Bash-%234EAA25.svg?logo=gnu-bash&logoColor=greenyellow)
-#![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-aquamarine?logo=prometheus)
-#![Grafana](https://img.shields.io/badge/Observability-Grafana-chocolate?logo=grafana)
 
 ---
 
@@ -57,11 +45,5 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-ek/)  [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/saif-ek)
 
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,bash,ansible,jenkins,prometheus" />
-  </a>
-</p>
 ---
 
