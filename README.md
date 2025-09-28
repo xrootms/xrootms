@@ -33,22 +33,6 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 
 ## GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=white" alt="xrootms GitHub Stats" height="150"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=white" alt="Top Languages" height="150"/>
-
-## GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=tokyonight" alt="xrootms GitHub Stats" height="160"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=gruvbox" alt="Top Languages" height="160"/>  
-
-## GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=radical" alt="xrootms GitHub Stats" height="160"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xrootms&theme=dark&hide_border=true" alt="GitHub Streak" height="160"/>  
-
-## GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=merko" alt="xrootms GitHub Stats" height="160"/>  
-<img src="https://github-profile-trophy.vercel.app/?username=xrootms&theme=dracula&column=4" alt="GitHub Trophies" height="160"/>  
-
-## GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=xrootms&show_icons=true&theme=default&hide_border=true" alt="xrootms GitHub Stats" height="150"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrootms&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>  
 
