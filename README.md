@@ -31,6 +31,7 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=tokyonight)
 
+https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-black?logo=amazon-aws&logoColor=darkorange
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-ek/)  [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/saif-ek)
