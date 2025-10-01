@@ -35,11 +35,5 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 [![badges](https://img.shields.io/badge/badges-blue?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/e94ba17e-40ac-4909-b2bb-fb5a98fab042/image)
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-ek/)  [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/saif-ek)
 
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin,github&perline=1)]
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/saif-ek/)  [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/saif-ek)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/saif-ek/)  [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/xrootms)
