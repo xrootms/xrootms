@@ -28,9 +28,7 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
  ## Certifications
 
-![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=black)
-
-[![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/340x340/images/00632890-a90c-46fc-876e-bef062220436/AWS-SolArch-Associate-2020.png)](https://www.credly.com/badges/a-unique-badge-id-here)
+![[AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=black)](https://www.credly.com/badges/e94ba17e-40ac-4909-b2bb-fb5a98fab042/image)
 
 
 [![badges](https://img.shields.io/badge/badges-blue?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/e94ba17e-40ac-4909-b2bb-fb5a98fab042/image)
