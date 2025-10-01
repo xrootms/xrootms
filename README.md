@@ -5,7 +5,7 @@
 
 ## Tools
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,bash,ansible,jenkins,prometheus" />
   </a>
 </p>
