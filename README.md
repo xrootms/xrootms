@@ -12,7 +12,7 @@
 
 
 ## Projects
-Here are some of my hands-on projects ⬇️
+'Here are some of my hands-on projects' ⬇️
 
 🔹 [**AWS 3-Tier Architecture with Terraform**](https://github.com/xrootms/aws-3tier-terraform)  
 Provisioned a **scalable 3-tier architecture** (VPC, EC2, RDS, ALB) using **Terraform**.  
@@ -30,8 +30,6 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
  ## Certifications
 
 ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=black)
-
-https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-black?logo=amazon-aws&logoColor=darkorange
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-ek/)  [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/saif-ek)
