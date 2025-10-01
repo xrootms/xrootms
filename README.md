@@ -39,3 +39,7 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,github&perline=1)]
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
