@@ -42,4 +42,4 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,github&theme=light)](https://www.linkedin.com/in/saif-ek/) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/saif-ek/)  [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/saif-ek)
