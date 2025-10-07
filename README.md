@@ -32,4 +32,4 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 ## Connect
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/saif-ek/)     [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/xrootms)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/saif-ek/)  -  [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/xrootms)
