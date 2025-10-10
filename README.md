@@ -12,7 +12,7 @@
 
 | Stage                    | Purpose                  |
 | ------------------------ | ------------------------ |
-| **C**                    | <img src="https://skillicons.dev/icons?i=aws" />  |
+| **Cloud**                    | <img src="https://skillicons.dev/icons?i=aws" />  |
 | **Install Dependencies** | Set up required packages |
 | **Run Tests**            | Ensure code is working   |
 | **Build Project**        | Compile and optimize     |
