@@ -16,9 +16,9 @@
 | **Monitoring**               | <img src="https://skillicons.dev/icons?i=prometheus,grafana" />  |
 
 
+| ## Projects                | 
 
-
-## Projects
+ | ## Projects
 Here are some of my hands-on projects ⬇️
 
 🔹 [**AWS 3-Tier Architecture with Terraform**](https://github.com/xrootms/aws-3tier-terraform)  
