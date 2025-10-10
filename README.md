@@ -10,13 +10,14 @@
   </a>
 </p>
 
-| Stage                      | Purpose                  |
+| Technologies                 | Skills                  |
 | ---------------------------- | ------------------------ |
 | **Cloud**                    | <img src="https://skillicons.dev/icons?i=aws" />  |
 | **IasC**                     | <img src="https://skillicons.dev/icons?i=terraform" /> |
 | **Container Management**     | <img src="https://skillicons.dev/icons?i=kubernetes,docker" />  |
 | **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
-| **Monitoring**               | Start app with PM2       |
+| **Monitoring**               | <img src="https://skillicons.dev/icons?i=prometheus" />  |
+| **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
 
 
 
