@@ -33,7 +33,7 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 ## 🚀 Projects
 
-|     ## 🚀 Projects        |
+| Projects ⬇️     |
 |----------|
 |🔹 [**AWS 3-Tier Architecture with Terraform**](https://github.com/xrootms/aws-3tier-terraform) | 
 Provisioned a scalable 3-tier architecture (VPC, EC2, RDS, ALB) using **Terraform**.
@@ -41,7 +41,8 @@ Provisioned a scalable 3-tier architecture (VPC, EC2, RDS, ALB) using **Terrafor
 Deployed a microservices app on Kubernetes with **Ingress Controller** and **Helm charts**. | 
 |🔹 [**Serverless URL Shortener**](https://github.com/your-username/aws-serverless-url-shortener) | 
 Built a serverless URL shortener using **AWS Lambda**, **API Gateway**, and **DynamoDB**. | 
-|🔹 [**DevOps CI/CD Pipeline**](https://github.com/xrootms/DevOps-CI-CD-Pipeline)  Implemented a CI/CD pipeline with Jenkins, Docker, and Kubernetes for automated deployments. |
+|🔹 [**DevOps CI/CD Pipeline**](https://github.com/xrootms/DevOps-CI-CD-Pipeline) | 
+Implemented a CI/CD pipeline with Jenkins, Docker, and Kubernetes for automated deployments. |
 
 
  ## Certifications
