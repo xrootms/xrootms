@@ -14,10 +14,12 @@
 | ---------------------------- | ------------------------ |
 | **Cloud**                    | <img src="https://skillicons.dev/icons?i=aws" />  |
 | **IasC**                     | <img src="https://skillicons.dev/icons?i=terraform" /> |
+| **CICD**                     | <img src="https://skillicons.dev/icons?i=jenkins" /> |
+| **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
 | **Container Management**     | <img src="https://skillicons.dev/icons?i=kubernetes,docker" />  |
 | **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
 | **Monitoring**               | <img src="https://skillicons.dev/icons?i=prometheus" />  |
-| **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
+
 
 
 
