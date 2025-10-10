@@ -7,8 +7,7 @@
 
 | Technologies                 | Skills                  |
 | ---------------------------- | ------------------------ |
-| **Cloud**                    | <img src="https://skillicons.dev/icons?i=aws" />  |
-| **IasC**                     | <img src="https://skillicons.dev/icons?i=terraform" /> |
+| **Cloud & IasC**             | <img src="https://skillicons.dev/icons?i=aws,terraform" />  |
 | **CICD**                     | <img src="https://skillicons.dev/icons?i=jenkins" /> |
 | **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
 | **Container Management**     | <img src="https://skillicons.dev/icons?i=kubernetes,docker" />  |
