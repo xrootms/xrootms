@@ -18,7 +18,7 @@
 | **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
 | **Container Management**     | <img src="https://skillicons.dev/icons?i=kubernetes,docker" />  |
 | **Scripting**                | <img src="https://skillicons.dev/icons?i=bash" /> |
-| **Monitoring**               | <img src="https://skillicons.dev/icons?i=prometheus" />  |
+| **Monitoring**               | <img src="https://skillicons.dev/icons?i=prometheus,grafana" />  |
 
 
 
