@@ -10,13 +10,13 @@
   </a>
 </p>
 
-| Stage                    | Purpose                  |
-| ------------------------ | ------------------------ |
-| **Cloud**                | <img src="https://skillicons.dev/icons?i=aws" />  |
-| **IasC**                 | <img src="https://skillicons.dev/icons?i=aws,terraform" /> |
-| **Run Tests**            | Ensure code is working   |
-| **Build Project**        | Compile and optimize     |
-| **Deploy**               | Start app with PM2       |
+| Stage                      | Purpose                  |
+| ---------------------------- | ------------------------ |
+| **Cloud**                    | <img src="https://skillicons.dev/icons?i=aws" />  |
+| **IasC**                     | <img src="https://skillicons.dev/icons?i=terraform" /> |
+| **Container Management**     | <img src="https://skillicons.dev/icons?i=kubernetes,docker" />  |
+| **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
+| **Monitoring**               | Start app with PM2       |
 
 
 
