@@ -17,7 +17,7 @@
 | **CICD**                     | <img src="https://skillicons.dev/icons?i=jenkins" /> |
 | **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
 | **Container Management**     | <img src="https://skillicons.dev/icons?i=kubernetes,docker" />  |
-| **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
+| **Scripting**                | <img src="https://skillicons.dev/icons?i=bash" /> |
 | **Monitoring**               | <img src="https://skillicons.dev/icons?i=prometheus" />  |
 
 
