@@ -33,7 +33,7 @@ Implemented a **CI/CD pipeline** with Jenkins + Docker + Kubernetes.
 
 ## 🚀 Projects
 
-| Project | Description | 
+
 |----------|
 | [**AWS 3-Tier Architecture with Terraform**](https://github.com/xrootms/aws-3tier-terraform) | 
 Provisioned a **scalable 3-tier architecture** (VPC, EC2, RDS, ALB) using **Terraform**.
