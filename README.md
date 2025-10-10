@@ -10,6 +10,15 @@
   </a>
 </p>
 
+| Stage                    | Purpose                  |
+| ------------------------ | ------------------------ |
+| **C**                    | <img src="https://skillicons.dev/icons?i=aws" />  |
+| **Install Dependencies** | Set up required packages |
+| **Run Tests**            | Ensure code is working   |
+| **Build Project**        | Compile and optimize     |
+| **Deploy**               | Start app with PM2       |
+
+
 
 ## Projects
 Here are some of my hands-on projects ⬇️
