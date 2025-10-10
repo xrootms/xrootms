@@ -17,10 +17,7 @@
 
  ## Projects
 Here are some of my hands-on projects ⬇️
-
-
-
-| Here are some of my hands-on projects ⬇️⬇️     |
+|   Projects  |
 |----------|
 |🔹 [**AWS 3-Tier Architecture with Terraform**](https://github.com/xrootms/aws-3tier-terraform) | 
 Provisioned a scalable 3-tier architecture (VPC, EC2, RDS, ALB) using **Terraform**.
