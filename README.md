@@ -12,8 +12,8 @@
 
 | Stage                    | Purpose                  |
 | ------------------------ | ------------------------ |
-| **Cloud**                    | <img src="https://skillicons.dev/icons?i=aws" />  |
-| **Install Dependencies** | Set up required packages |
+| **Cloud**                | <img src="https://skillicons.dev/icons?i=aws" />  |
+| **IasC**                 | <img src="https://skillicons.dev/icons?i=aws,terraform" /> |
 | **Run Tests**            | Ensure code is working   |
 | **Build Project**        | Compile and optimize     |
 | **Deploy**               | Start app with PM2       |
