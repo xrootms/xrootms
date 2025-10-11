@@ -15,7 +15,7 @@ Hey there 👋 I’m a AWS & DevOps Engineer who loves solving real-world proble
 
 
 <p align="right">
-  <img src="https://github.com/xrootms/Bash_Scripting/tree/main/image/18499070.gif" alt="LEMP Diagram" width="200">
+  <img src="https://github.com/xrootms/Bash_Scripting/image/18499070.gif" alt="LEMP Diagram" width="200">
 </p>
 
 https://github.com/xrootms/Bash_Scripting/tree/main/image
