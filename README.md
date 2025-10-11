@@ -30,11 +30,39 @@ Implemented a CI/CD pipeline with Jenkins, Docker, and Kubernetes for automated 
 ----
 
 
-<table align="center">
+<table>
   <tr>
-    <th style="background-color:#0078D7; color:white; font-size:22px; padding:10px; border-radius:8px;">
+    <th align="left" style="background-color:#0078D7; color:white; padding:8px; font-size:18px;">
       🚀 Projects
     </th>
+  </tr>
+
+  <tr>
+    <td>
+      🔹 <a href="https://github.com/xrootms/aws-3tier-terraform"><b>AWS 3-Tier Architecture with Terraform</b></a><br>
+      Provisioned a scalable 3-tier architecture (VPC, EC2, RDS, ALB) using <b>Terraform</b>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🔹 <a href="https://github.com/your-username/k8s-microservices"><b>Kubernetes Microservices with Ingress</b></a><br>
+      Deployed a microservices app on Kubernetes with <b>Ingress Controller</b> and <b>Helm charts</b>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🔹 <a href="https://github.com/your-username/aws-serverless-url-shortener"><b>Serverless URL Shortener</b></a><br>
+      Built a serverless URL shortener using <b>AWS Lambda</b>, <b>API Gateway</b>, and <b>DynamoDB</b>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🔹 <a href="https://github.com/xrootms/DevOps-CI-CD-Pipeline"><b>DevOps CI/CD Pipeline</b></a><br>
+      Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
+    </td>
   </tr>
 </table>
 
