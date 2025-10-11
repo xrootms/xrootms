@@ -1,8 +1,9 @@
 ## About Me  
 Hey there 👋 I’m a AWS & DevOps Engineer who loves solving real-world problems using Cloud, IaC, and CI/CD pipelines. I enjoy working with AWS, Terraform, Kubernetes, and Docker to build secure, automated, and scalable systems. Always exploring new DevOps tools and sharing my journey through projects and collaborations. .
 
-<img src="./image/18499070.gif" alt="LEMP Diagram" width="200" align="right" />
 ## Tools
+<img src="./image/18499070.gif" alt="LEMP Diagram" width="200" align="right" />
+
 
 | Technologies                 | Skills                  |
 | ---------------------------- | ------------------------ |
