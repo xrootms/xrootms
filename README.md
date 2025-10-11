@@ -13,8 +13,10 @@ Hey there 👋 I’m a AWS & DevOps Engineer who loves solving real-world proble
 | **Scripting**                | <img src="https://skillicons.dev/icons?i=bash" /> |
 | **Monitoring**               | <img src="https://skillicons.dev/icons?i=prometheus,grafana" />  |
 
+<p align="right">
+  <img src="./image/18499070.gif" alt="LEMP Diagram" width="200">
+</p>
 
-https://github.com/xrootms/Bash_Scripting/tree/main/image
  ## Projects
 Here are some of my hands-on projects ⬇️
 <table>
