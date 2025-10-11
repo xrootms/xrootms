@@ -7,7 +7,7 @@ Hey there 👋 I’m a AWS & DevOps Engineer who loves solving real-world proble
 | Technologies                 | Skills                  |
 | ---------------------------- | ------------------------ |
 | **Cloud & IaC**             | <img src="https://skillicons.dev/icons?i=aws,terraform" />  |
-| **CICD**                     | <img src="https://skillicons.dev/icons?i=jenkins" /> |
+| **CI/CD**                     | <img src="https://skillicons.dev/icons?i=jenkins" /> |
 | **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
 | **Container Management**     | <img src="https://skillicons.dev/icons?i=kubernetes,docker" />  |
 | **Scripting**                | <img src="https://skillicons.dev/icons?i=bash" /> |
