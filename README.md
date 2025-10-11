@@ -29,13 +29,14 @@ Implemented a CI/CD pipeline with Jenkins, Docker, and Kubernetes for automated 
 
 ----
 
-<!-- Stylish Blue Header Block -->
-<div align="center" style="background-color:#0078D7; color:white; padding:15px; border-radius:10px; font-size:22px; font-weight:bold;">
-🚀 My Hands-on Projects
-</div>
-<br/>
 
-
+<table align="center">
+  <tr>
+    <th style="background-color:#0078D7; color:white; font-size:22px; padding:10px; border-radius:8px;">
+      🚀 Projects
+    </th>
+  </tr>
+</table>
 
 
 
