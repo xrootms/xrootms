@@ -70,7 +70,6 @@ Implemented a CI/CD pipeline with Jenkins, Docker, and Kubernetes for automated 
 <p align="left">
   <img src="https://img.shields.io/badge/🚀_Projects-0078D7?style=for-the-badge&logoColor=white" alt="Projects Badge"/>
 </p>
-
 <table>
   <tr>
     <td>
