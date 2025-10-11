@@ -16,7 +16,7 @@ Hey there 👋 I’m a AWS & DevOps Engineer who loves solving real-world proble
 
  ## Projects
 Here are some of my hands-on projects ⬇️
-|  <th align="left" ![Projects](https://img.shields.io/badge/Projects-🚀-0078D7?style=for-the-badge&logoColor=white) </th> |
+|  <p align="left"> ![Projects](https://img.shields.io/badge/Projects-🚀-0078D7?style=for-the-badge&logoColor=white) </p> |
 |----------|
 |🔹 [**AWS 3-Tier Architecture with Terraform**](https://github.com/xrootms/aws-3tier-terraform) | 
 Provisioned a scalable 3-tier architecture (VPC, EC2, RDS, ALB) using **Terraform**.
