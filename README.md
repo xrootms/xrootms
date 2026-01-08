@@ -28,7 +28,7 @@
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/aws-2tier-architecture-terraform"><b>AWS 2-Tier Architecture with Terraform</b></a><br>
-      Provisioned a scalable 2-tier architecture (VPC, EC2, S3, IAM, RDS, ALB) using <b>Terraform</b>.
+      Provisioned a scalable 2-tier architecture (VPC, EC2, S3, IAM, RDS, ALB) using reuseable <b>Terraform</b> module.
     </td>
   </tr>
   <tr>
