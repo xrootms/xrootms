@@ -25,7 +25,6 @@
       Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
     </td>
   </tr>
-</table>
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/aws-2tier-architecture-terraform"><b>AWS 2-Tier Architecture with Terraform</b></a><br>
@@ -44,6 +43,7 @@
       Built a serverless URL shortener using <b>AWS Lambda</b>, <b>API Gateway</b>, and <b>DynamoDB</b>.
     </td>
   </tr>
+  </table>
   
 
 
