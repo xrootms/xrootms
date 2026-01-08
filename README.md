@@ -19,10 +19,17 @@
  ## Projects
 #### ⬇ Here are some of my hands-on projects ️
 <table>
+ <tr>
+    <td>
+      🔹 <a href="https://github.com/xrootms/DevSecOps-CI-CD-Pipeline"><b>DevOps CI/CD Pipeline</b></a><br>
+      Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
+    </td>
+  </tr>
+</table>
   <tr>
     <td>
-      🔹 <a href="https://github.com/xrootms/aws-3tier-terraform"><b>AWS 3-Tier Architecture with Terraform</b></a><br>
-      Provisioned a scalable 3-tier architecture (VPC, EC2, RDS, ALB) using <b>Terraform</b>.
+      🔹 <a href="https://github.com/xrootms/aws-2tier-architecture-terraform"><b>AWS 2-Tier Architecture with Terraform</b></a><br>
+      Provisioned a scalable 2-tier architecture (VPC, EC2, S3, IAM, RDS, ALB) using <b>Terraform</b>.
     </td>
   </tr>
   <tr>
@@ -37,13 +44,7 @@
       Built a serverless URL shortener using <b>AWS Lambda</b>, <b>API Gateway</b>, and <b>DynamoDB</b>.
     </td>
   </tr>
-  <tr>
-    <td>
-      🔹 <a href="https://github.com/xrootms/DevOps-CI-CD-Pipeline"><b>DevOps CI/CD Pipeline</b></a><br>
-      Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
-    </td>
-  </tr>
-</table>
+  
 
 
  ## Certifications
