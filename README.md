@@ -21,7 +21,7 @@
 <table>
  <tr>
     <td>
-      🔹 <a href="https://github.com/xrootms/DevSecOps-CI-CD-Pipeline"><b>DevOps CI/CD Pipeline</b></a><br>
+      🔹 <a href="https://github.com/xrootms/DevSecOps-CI-CD-Pipeline"><b>End-to-End DevSecOps-CI-CD-Pipeline</b></a><br>
       Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
     </td>
   </tr>
