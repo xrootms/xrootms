@@ -34,7 +34,7 @@
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/terraform-jenkins-setup"><b>Jenkins Setup on AWS using Terraform</b></a><br>
-      Provisioned all Networking, Security, and App Components, Integrating with a Custom Domain and <b>SSL</b> Certificate..
+      Provisioned all Networking and App Components, Integrating with a Custom Domain and <b>SSL</b> Certificate..
     </td>
   </tr>
   <tr>
