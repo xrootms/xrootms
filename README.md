@@ -49,8 +49,7 @@
       Deployed a microservices app on Kubernetes with <b>Ingress Controller</b> and <b>Helm charts</b>.
     </td>
   </tr>
-  <tr>
-    <td>
+</table>
   
 
 
