@@ -33,6 +33,18 @@
   </tr>
   <tr>
     <td>
+      🔹 <a href="https://github.com/xrootms/terraform-jenkins-setup"><b>Jenkins Setup on AWS using Terraform</b></a><br>
+      Provisioned all Networking, Security, and Application Components, Integrating with a custom Domain and SSL certificate..
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🔹 <a href="https://github.com/xrootms/Dockerize-Flask-App-With-Logging"><b>Dockerize Flask Application With Logging</b></a><br>
+      Dockerized a Flask App with Production best practices, including, logging, image Optimization, CloudWatch integration.
+    </td>
+  </tr>
+  <tr>
+    <td>
       🔹 <a href="https://github.com/your-username/k8s-microservices"><b>Kubernetes Microservices with Ingress</b></a><br>
       Deployed a microservices app on Kubernetes with <b>Ingress Controller</b> and <b>Helm charts</b>.
     </td>
