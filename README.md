@@ -34,13 +34,13 @@
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/terraform-jenkins-setup"><b>Jenkins Setup on AWS using Terraform</b></a><br>
-      Provisioned all Networking, Security, and Application Components, Integrating with a custom Domain and SSL certificate..
+      Provisioned all Networking, Security, and App Components, Integrating with a Custom Domain and <b>SSL</b> Certificate..
     </td>
   </tr>
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/Dockerize-Flask-App-With-Logging"><b>Dockerize Flask Application With Logging</b></a><br>
-      Dockerized a Flask App with Production best practices, including, logging, image Optimization, CloudWatch integration.
+      Dockerized a Flask App with Production best practices, including, logging, image Optimization, <b>CloudWatch</b> integration.
     </td>
   </tr>
   <tr>
@@ -51,11 +51,6 @@
   </tr>
   <tr>
     <td>
-      🔹 <a href="https://github.com/your-username/aws-serverless-url-shortener"><b>Serverless URL Shortener</b></a><br>
-      Built a serverless URL shortener using <b>AWS Lambda</b>, <b>API Gateway</b>, and <b>DynamoDB</b>.
-    </td>
-  </tr>
-  </table>
   
 
 
