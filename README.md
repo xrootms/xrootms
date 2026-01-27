@@ -40,7 +40,7 @@
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/Dockerize-Flask-App-With-Logging"><b>Dockerize Flask Application With Logging</b></a><br>
-      </b>Dockerized a Flask App with Production best practices, including, logging, image Optimization, <b>CloudWatch</b> integration.</b>
+      </b>Dockerized a Flask App with Production best practices, including, logging, image Optimization, CloudWatch, integration.</b>
     </td>
   </tr>
   <tr>
