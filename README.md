@@ -28,19 +28,19 @@
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/DevSecOps-CI-CD-Pipeline"><b>End-to-End DevSecOps CI-CD Pipeline</b></a><br>
-      Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
+      <b>Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.</b>
     </td>
   </tr>
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/terraform-jenkins-setup"><b>Jenkins Setup on AWS using Terraform</b></a><br>
-      Provisioned all Networking and App Components, Integrating with a Custom Domain and <b>SSL</b> Certificate..
+      <b>Provisioned all Networking and App Components, Integrating with a Custom Domain and <b>SSL</b> Certificate.</b>
     </td>
   </tr>
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/Dockerize-Flask-App-With-Logging"><b>Dockerize Flask Application With Logging</b></a><br>
-      Dockerized a Flask App with Production best practices, including, logging, image Optimization, <b>CloudWatch</b> integration.
+      </b>Dockerized a Flask App with Production best practices, including, logging, image Optimization, <b>CloudWatch</b> integration.</b>
     </td>
   </tr>
   <tr>
