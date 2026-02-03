@@ -17,7 +17,7 @@
 
 
  ## Projects
-#### ⬇ Here are some of my hands-on projects ️
+#### Here are some of my hands-on projects ⬇
 <table>
   <tr>
     <td>
