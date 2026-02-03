@@ -5,7 +5,7 @@
 <img src="./image/18499070.gif" alt="LEMP Diagram" width="200" align="right" />
 
 
-| Technologies                 | Skills                  |
+| <b>Technologies</b>          | <b>Skills</b>                |
 | ---------------------------- | ------------------------ |
 | **Cloud & IaC**             | <img src="https://skillicons.dev/icons?i=aws,terraform" />  |
 | **CI/CD**                     | <img src="https://skillicons.dev/icons?i=jenkins" /> |
