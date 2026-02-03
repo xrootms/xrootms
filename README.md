@@ -56,7 +56,7 @@
 
 
 <p align="left">
- ## GitHub: <a href="https://github.com/xrootms" target="_blank">
+ <b>GitHub:</b> <a href="https://github.com/xrootms" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="border-radius:35%;"/>
   </a>
   &nbsp;&nbsp;
