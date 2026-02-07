@@ -8,7 +8,7 @@
 | <b>Technologies</b>          | <b>Skills</b>                |
 | ---------------------------- | ------------------------ |
 | **Cloud & IaC**             | <img src="https://skillicons.dev/icons?i=aws,terraform" />  |
-| **CI/CD**                     | <img src="https://skillicons.dev/icons?i=jenkins" /> |
+| **CI/CD**                     | <img src="https://skillicons.dev/icons?i=jenkins,githubactions" /> |
 | **Configuration Management** | <img src="https://skillicons.dev/icons?i=ansible" /> |
 | **Container Management**     | <img src="https://skillicons.dev/icons?i=kubernetes,docker" />  |
 | **Scripting**                | <img src="https://skillicons.dev/icons?i=bash" /> |
