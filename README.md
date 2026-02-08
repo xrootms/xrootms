@@ -65,3 +65,15 @@
   </a>
 </p>
 
+## 👋 Hi, I'm Saif
+
+Cloud & DevOps Engineer with around 7 years of experience in AWS, Terraform, Linux, CI/CD, Jenkins, and containerization.
+
+### 🏅 Certifications
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/)
+
+### 🔗 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/xrootms)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ek)
+
+
