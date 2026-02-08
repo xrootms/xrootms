@@ -103,6 +103,15 @@ Cloud & DevOps Engineer with around 7 years of experience in AWS, Terraform, Lin
 </p>
 
 <p align="center">
+  <small><strong>LinkedIn</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>GitHub</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>Resume</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>Email</strong></small>
+</p>
+
+
+
+<p align="center">
   <strong>LinkedIn</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>GitHub</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>Resume</strong>&nbsp;&nbsp;&nbsp;&nbsp;
