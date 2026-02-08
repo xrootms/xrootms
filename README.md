@@ -155,15 +155,7 @@ Cloud & DevOps Engineer with around 7 years of experience in AWS, Terraform, Lin
         <sub>Resume</sub>
       </td>
 
-      <td align="center" width="90">
-        <a href="mailto:your@email.com">
-          <img src="https://img.icons8.com/ios-filled/50/444444/new-post.png" />
-        </a>
-        <br/>
-        <sub>Email</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+      <td align="cente
+
 
 
