@@ -56,7 +56,7 @@
  <h2 align="center">Certifications</h2>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/e94ba17e-40ac-4909-b2bb-fb5a98fab042">
+  <a href="https://www.credly.com/badges/e94ba17e-40ac-4909-b2bb-fb5a98fab042" target="_blank">
     <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?logo=amazon-aws&logoColor=black"/>
   </a>
 </p>
