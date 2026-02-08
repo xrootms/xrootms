@@ -51,31 +51,7 @@
   </tr>
 </table>
   
- ## Certifications: [![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=black)](https://www.credly.com/badges/e94ba17e-40ac-4909-b2bb-fb5a98fab042/image)  
-
-
-
-<p align="center">
- <b>GitHub:</b> <a href="https://github.com/xrootms" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="border-radius:35%;"/>
-  </a>
-  &nbsp;&nbsp;
- <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/saif-ek/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="border-radius:20%;"/>
-  </a>
-</p>
-
-## 👋 Hi, I'm Saif
-
-Cloud & DevOps Engineer with around 7 years of experience in AWS, Terraform, Linux, CI/CD, Jenkins, and containerization.
-
-### 🏅 Certifications
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/)
-
-### 🔗 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/xrootms)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ek)
-
+ ## Certifications: [![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=black)](https://www.credly.com/badges/e94ba17e-40ac-4909-b2bb-fb5a98fab042/imag
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
