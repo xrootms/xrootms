@@ -77,3 +77,37 @@ Cloud & DevOps Engineer with around 7 years of experience in AWS, Terraform, Lin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ek)
 
 
+<h2 align="center">Connect with me</h2>
+<p align="center">
+  Prefer to connect through social media? Choose your preferred platform:
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saif-ek" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/7b5cff/linkedin.png"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/xrootms" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/7b5cff/github.png"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/7b5cff/resume.png"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.icons8.com/ios-filled/50/7b5cff/new-post.png"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>LinkedIn</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>GitHub</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Resume</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Email</strong>
+</p>
+
+
+
