@@ -103,16 +103,6 @@ Cloud & DevOps Engineer with around 7 years of experience in AWS, Terraform, Lin
 </p>
 
 <p align="center">
-  <small>LinkedIn</small>&nbsp;&nbsp;&nbsp;&nbsp;
-  <small>GitHub</small>&nbsp;&nbsp;&nbsp;&nbsp;
-  <small>Resume</small>&nbsp;&nbsp;&nbsp;&nbsp;
-  <small>Email</small>
-</p>
-
-
-
-
-<p align="center">
   <strong>LinkedIn</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>GitHub</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>Resume</strong>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -121,41 +111,6 @@ Cloud & DevOps Engineer with around 7 years of experience in AWS, Terraform, Lin
 
 
 
-<h2 align="center">Connect with me</h2>
-<p align="center">
-  Prefer to connect through social media? Choose your preferred platform:
-</p>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <a href="https://www.linkedin.com/in/saif-ek">
-          <img src="https://img.icons8.com/ios-filled/50/444444/linkedin.png" />
-        </a>
-        <br/>
-        <sub>LinkedIn</sub>
-      </td>
-
-      <td align="center" width="90">
-        <a href="https://github.com/xrootms">
-          <img src="https://img.icons8.com/ios-filled/50/444444/github.png" />
-        </a>
-        <br/>
-        <sub>GitHub</sub>
-      </td>
-
-      <td align="center" width="90">
-        <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
-          <img src="https://img.icons8.com/ios-filled/50/444444/resume.png" />
-        </a>
-        <br/>
-        <sub>Resume</sub>
-      </td>
-
-      <td align="cente
 
 
 
