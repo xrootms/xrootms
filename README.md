@@ -120,6 +120,7 @@ Cloud & DevOps Engineer with around 7 years of experience in AWS, Terraform, Lin
 </p>
 
 
+
 <h2 align="center">Connect with me</h2>
 <p align="center">
   Prefer to connect through social media? Choose your preferred platform:
@@ -127,39 +128,42 @@ Cloud & DevOps Engineer with around 7 years of experience in AWS, Terraform, Lin
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.linkedin.com/in/saif-ek" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/444444/linkedin.png"/>
-      </a>
-      <br/>
-      <small>LinkedIn</small>
-    </td>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <a href="https://www.linkedin.com/in/saif-ek">
+          <img src="https://img.icons8.com/ios-filled/50/444444/linkedin.png" />
+        </a>
+        <br/>
+        <sub>LinkedIn</sub>
+      </td>
 
-    <td align="center" width="90">
-      <a href="https://github.com/xrootms" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/444444/github.png"/>
-      </a>
-      <br/>
-      <small>GitHub</small>
-    </td>
+      <td align="center" width="90">
+        <a href="https://github.com/xrootms">
+          <img src="https://img.icons8.com/ios-filled/50/444444/github.png" />
+        </a>
+        <br/>
+        <sub>GitHub</sub>
+      </td>
 
-    <td align="center" width="90">
-      <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/444444/resume.png"/>
-      </a>
-      <br/>
-      <small>Resume</small>
-    </td>
+      <td align="center" width="90">
+        <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
+          <img src="https://img.icons8.com/ios-filled/50/444444/resume.png" />
+        </a>
+        <br/>
+        <sub>Resume</sub>
+      </td>
 
-    <td align="center" width="90">
-      <a href="mailto:your@email.com">
-        <img src="https://img.icons8.com/ios-filled/50/444444/new-post.png"/>
-      </a>
-      <br/>
-      <small>Email</small>
-    </td>
-  </tr>
-</table>
+      <td align="center" width="90">
+        <a href="mailto:your@email.com">
+          <img src="https://img.icons8.com/ios-filled/50/444444/new-post.png" />
+        </a>
+        <br/>
+        <sub>Email</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
