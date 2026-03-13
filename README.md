@@ -32,7 +32,7 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/ECS_Cluster_on_EC2_with_Terraform"><b>ECS Cluster On EC2 With Terraform</b></a><br>
-      <b>Provisioned a Secure, Scalable, & Highly available Environment to run Containerized Application on ECS behind an ALB.</b>
+      <b>Provisioned a Secure, Scalable, & Highly available Environment to run Containerized App on ECS behind an ALB.</b>
     </td>
   </tr>
   <tr>
