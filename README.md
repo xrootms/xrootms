@@ -39,8 +39,8 @@
   </tr>
   <tr>
     <td>
-      🔹 <a href="https://github.com/xrootms/Dockerize-Flask-App-With-Logging"><b>Dockerize Flask Application With Logging</b></a><br>
-      <b>Dockerized a Flask Application with Production best practices, including, image Optimization, CloudWatch integration.</b>
+      🔹 <a href="https://github.com/xrootms/ECS_Cluster_on_EC2_with_Terraform"><b>ECS Cluster On EC2 With Terraform</b></a><br>
+      <b>Provisioned a Secure, Scalable, & Highly available Environment to run Containerized App on ECS behind an ALB, with a Custom Domain and SSL.</b>
     </td>
   </tr>
   <tr>
