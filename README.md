@@ -27,6 +27,12 @@
   </tr>
   <tr>
     <td>
+      🔹 <a href="https://github.com/xrootms/ECS_Cluster_on_EC2_with_Terraform"><b>ECS Cluster On EC2 With Terraform</b></a><br>
+      <b>Provisioned a Secure, Scalable, & Highly available Environment to run Containerized App on ECS behind an ALB, with a Custom Domain and SSL.</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
       🔹 <a href="https://github.com/xrootms/DevSecOps-CI-CD-Pipeline"><b>End-to-End DevSecOps CI-CD Pipeline</b></a><br>
       <b>Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.</b>
     </td>
@@ -35,12 +41,6 @@
     <td>
       🔹 <a href="https://github.com/xrootms/terraform-jenkins-setup"><b>Jenkins Setup on AWS using Terraform</b></a><br>
       <b>Provisioned all Networking and App Components, Integrating with a Custom Domain and <b>SSL</b> Certificate.</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      🔹 <a href="https://github.com/xrootms/ECS_Cluster_on_EC2_with_Terraform"><b>ECS Cluster On EC2 With Terraform</b></a><br>
-      <b>Provisioned a Secure, Scalable, & Highly available Environment to run Containerized App on ECS behind an ALB, with a Custom Domain and SSL.</b>
     </td>
   </tr>
   <tr>
