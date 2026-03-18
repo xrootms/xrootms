@@ -5,9 +5,6 @@ I enjoy solving real-world problems using technologies like AWS, Terraform, Kube
 
 I’m passionate about learning new DevOps tools, optimizing cloud architectures, and sharing my journey through projects and collaborations.
 
-/*(## Tools:
-<img src="./image/18499070.gif" alt="LEMP Diagram" width="200" align="right" />
-*/
 
 | <b>Technologies</b>          | <b>Skills</b>                |
 | ---------------------------- | ------------------------ |
