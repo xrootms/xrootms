@@ -56,11 +56,7 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
 
  ## Certifications:
  
-[![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?
-<p align="center">
-  <img src="./image/AWS-SolArchitect-Associate-2020.png" alt="LEMP Diagram" width="90">
-</
-)]
+[![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?<img src="./image/AWS-SolArchitect-Associate-2020.png" alt="LEMP Diagram" width="90">)]
  
 
 
