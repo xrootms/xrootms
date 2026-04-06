@@ -56,9 +56,6 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
  
 
 
- AWS-SolArchitect-Associate-2020.png
-
-
 <h2 align="center">Connect with me</h2>
 <p align="center">
   Prefer to connect through social media? Choose your preferred platform:
