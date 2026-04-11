@@ -69,7 +69,7 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/xrootms" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/20/444444/github.png"/>
+    <img src="https://img.icons8.com/ios-filled/35/444444/github.png"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view" target="_blank">
