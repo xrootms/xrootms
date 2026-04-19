@@ -70,8 +70,6 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
 
 ---
 
-> 🌐 **Portfolio:** https://xrootms.github.io/
-
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
