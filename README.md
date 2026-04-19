@@ -61,11 +61,15 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
 
 [![Portfolio](https://img.shields.io/badge/View-My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xrootms.github.io/)
 
+---
+
 <div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align: center;">
   <a href="https://xrootms.github.io/" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;">
     🌐 Visit My Portfolio
   </a>
 </div>
+
+---
 
 > 🌐 **Portfolio:** https://xrootms.github.io/
 
