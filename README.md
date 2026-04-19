@@ -18,7 +18,7 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
 
 
  ## Projects
-#### Here are some of my hands-on projects ⬇ (<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align: center;"><a href="https://xrootms.github.io/" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;">🌐 Visit My Portfolio</a></div>)
+#### Here are some of my hands-on projects ⬇ (<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:center;"><a href="https://xrootms.github.io/" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;">🌐 Visit My Portfolio</a></div>)
 <table>
   <tr>
     <td>
