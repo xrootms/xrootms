@@ -51,7 +51,9 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
     </td>
   </tr>
 </table>
-  
+
+## Portfolio: https://xrootms.github.io/
+
  ## Certifications: [![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?logo=amazon-aws&logoColor=black)](https://www.credly.com/badges/e94ba17e-40ac-4909-b2bb-fb5a98fab042/imag)
  
 
