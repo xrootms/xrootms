@@ -1,9 +1,7 @@
 ## About  
-<b>Hey there 👋 I'm a Cloud & DevOps Engineer with 7+ years of IT experience, specializing in building secure, automated, and scalable cloud infrastructure.</b>
+<b>Hey there 👋 I'm Saif AWS Certified with 7+ years of IT Experience, I enjoy solving real-world problems using technologies like AWS, Terraform, Kubernetes, Docker, and CI/CD pipelines. My expertise includes cloud infrastructure automation, containerization, and implementing end-to-end DevOps workflows that improve reliability and deployment speed.</b>
 
-I enjoy solving real-world problems using technologies like AWS, Terraform, Kubernetes, Docker, and CI/CD pipelines. My expertise includes cloud infrastructure automation, containerization, and implementing end-to-end DevOps workflows that improve reliability and deployment speed.
-
-I’m passionate about learning new DevOps tools, optimizing cloud architectures, and sharing my journey through projects and collaborations.
+<b>I’m passionate about learning new DevOps tools, optimizing cloud architectures, and sharing my journey through projects and collaborations.</b>
 
 
 | <b>Technologies</b>          | <b>Skills</b>                |
