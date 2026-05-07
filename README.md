@@ -94,6 +94,15 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
 </p>
 
 
+<a href="https://www.linkedin.com/in/saif-ek" target="_blank" class="contact-icon-btn">
+  <div class="icon-circle">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
+      <path d="M4.98 3.5C4.98 4.88 3.86 6 2.48 6S0 4.88 0 3.5 1.12 1 2.48 1s2.5 1.12 2.5 2.5zM.5 8h4V24h-4V8zm7 0h3.8v2.2h.1c.53-1 1.82-2.2 3.75-2.2 4 0 4.75 2.63 4.75 6.05V24h-4v-7.1c0-1.7-.03-3.88-2.36-3.88-2.37 0-2.74 1.85-2.74 3.76V24h-4V8z"/>
+    </svg>
+  </div>
+  <span>Visit LinkedIn</span>
+</a>
+
 
 
 
